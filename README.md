@@ -1,7 +1,5 @@
 # pyvisa
-Easily and pragmatically control my own instruments with Python
+전파 측정기류들을 Python을 통해 손쉽게 입출력, 시각화, 제어 등을 하기 위한 저장소입니다.
 
-nice to meet you.
-I am interested in remotely controlling radio instruments and using them for simple and practical tasks.
-I use the Python language, and I hope everyone can easily edit it for personal use by referencing the source code.
-Please help us to make this project even better!
+현재 스펙트럼분석기(N9344C)와 네트워크분석기(8753ET)에 대한 제어 소스가 있습니다.
+향후 오실로스코프 등을 추가할 예정입니다.
